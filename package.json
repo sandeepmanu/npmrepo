@@ -1,0 +1,24 @@
+{
+  "name": "npmrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepmanu/npmrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepmanu/npmrepo/issues"
+  },
+  "homepage": "https://github.com/sandeepmanu/npmrepo#readme",
+  "dependencies": {
+    "os": "^0.1.2",
+    "shelljs": "^0.8.5",
+    "winston": "^3.8.1"
+  }
+}
